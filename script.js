@@ -72,7 +72,7 @@ const portfolioData = {
       title: "Enterprise CI/CD Migration",
       description:
         "Led and supported the migration of 10+ enterprise applications from Jenkins to GitHub Actions, creating reusable workflows that standardized delivery, improved maintainability, and reduced duplication across teams.",
-      image: "assets/project-2-placeholder.svg",
+      image: "assets/project-2-placeholder.png",
       tech: ["GitHub Actions", "Jenkins", "CI/CD", "Release Engineering"],
       links: [
         { label: "Related Experience", href: "#experience" }
