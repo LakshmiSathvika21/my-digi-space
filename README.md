@@ -1,6 +1,7 @@
 # Portfolio Website
 
-Static portfolio website designed to be hosted directly on GitHub Pages.
+portfolio website designed to be hosted directly on GitHub Pages.
+website url: https://lakshmisathvika21.github.io/my-digi-space/
 
 ## Files
 
