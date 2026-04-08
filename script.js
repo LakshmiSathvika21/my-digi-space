@@ -71,7 +71,7 @@ const portfolioData = {
     {
       title: "Production-Grade CI/CD Pipeline with AKS & Observability",
       description:
-        "Designed and implemented an end-to-end CI/CD pipeline using GitHub Actions to automate build, test, and deployment workflows. Containerized applications using Docker and deployed them to Azure Kubernetes Service (AKS) with Helm for scalable and consistent releases. Integrated Prometheus and Grafana to enable real-time monitoring, metrics collection, and system observability. Ensured reliable deployments with automated workflows, reducing manual intervention and improving delivery efficiency. The project simulates a real-world production environment, showcasing modern DevOps practices across CI/CD, containerization, orchestration, and monitoring."
+        "Designed and implemented an end-to-end CI/CD pipeline using GitHub Actions to automate build, test, and deployment workflows. Containerized applications using Docker and deployed them to Azure Kubernetes Service (AKS) with Helm for scalable and consistent releases. Integrated Prometheus and Grafana to enable real-time monitoring, metrics collection, and system observability. Ensured reliable deployments with automated workflows, reducing manual intervention and improving delivery efficiency. The project simulates a real-world production environment, showcasing modern DevOps practices across CI/CD, containerization, orchestration, and monitoring.",
       image: "assets/project-2-placeholder.png",
       tech: ["GitHub Actions", "Docker", "AKS", "Helm", "Prometheus", "Grafana", "CI/CD", "Observability"],
       links: [
