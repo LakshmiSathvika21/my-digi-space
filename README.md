@@ -1,4 +1,5 @@
 # Portfolio Website
+<img width="1442" height="817" alt="image" src="https://github.com/user-attachments/assets/e6dc01e6-8d7c-4ad9-b218-1bc59ba0a1db" />
 
 portfolio website designed to be hosted directly on GitHub Pages.
 website url: https://lakshmisathvika21.github.io/my-digi-space/
