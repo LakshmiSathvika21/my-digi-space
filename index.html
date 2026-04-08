@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sathvika | Portfolio</title>
+    <meta
+      name="description"
+      content="Professional portfolio website featuring projects, work history, skills, certifications, and contact details."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Source+Serif+4:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="#top">
+          <span class="brand-mark">LS</span>
+          <span id="brand-name">Lakshmi Sathvika</span>
+        </a>
+        <nav class="site-nav" aria-label="Primary">
+          <a href="#about">About</a>
+          <a href="#experience">Experience</a>
+          <a href="#projects">Projects</a>
+          <a href="#skills">Skills</a>
+          <a href="#certifications">Certifications</a>
+          <a href="#contact">Contact</a>
+        </nav>
+      </header>
+
+      <main id="top">
+        <section class="hero">
+          <div class="hero-copy reveal">
+            <p class="eyebrow" id="hero-tagline">Portfolio</p>
+            <h1 id="hero-name">Sathvika</h1>
+            <p class="hero-role" id="hero-role">Aspiring Software Professional</p>
+            <div class="hero-actions">
+              <a class="button button-primary" id="hero-email" href="#contact">Get in touch</a>
+              <a class="button button-secondary" id="hero-resume" href="#projects">View work</a>
+            </div>
+            <dl class="hero-highlights" id="highlights-list"></dl>
+          </div>
+          <div class="hero-visual reveal">
+            <div class="portrait-card">
+              <img id="profile-image" src="assets/profile.jpeg" alt="Profile portrait" />
+              <div class="portrait-badge">
+                <span id="location-label">Based in India</span>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section class="section reveal" id="about">
+          <div class="section-heading">
+            <p class="eyebrow">About</p>
+            <h2>Professional profile</h2>
+          </div>
+          <div class="about-grid">
+            <article class="panel">
+              <p id="about-text"></p>
+            </article>
+            <aside class="panel">
+              <ul class="detail-list" id="detail-list"></ul>
+            </aside>
+          </div>
+        </section>
+
+        <section class="section reveal" id="experience">
+          <div class="section-heading">
+            <p class="eyebrow">Experience</p>
+            <h2>Work history</h2>
+          </div>
+          <div class="timeline" id="experience-list"></div>
+        </section>
+
+        <section class="section reveal" id="projects">
+          <div class="section-heading">
+            <p class="eyebrow">Projects</p>
+            <h2>Selected work</h2>
+          </div>
+          <div class="project-grid" id="project-list"></div>
+        </section>
+
+        <section class="section reveal" id="skills">
+          <div class="section-heading">
+            <p class="eyebrow">Skills</p>
+            <h2>Tools and strengths</h2>
+          </div>
+          <div class="skills-grid" id="skills-list"></div>
+        </section>
+
+        <section class="section reveal" id="certifications">
+          <div class="section-heading">
+            <p class="eyebrow">Credentials</p>
+            <h2>Certifications and learning</h2>
+          </div>
+          <div class="cert-grid" id="cert-list"></div>
+        </section>
+
+        <section class="section reveal" id="contact">
+          <div class="section-heading">
+            <p class="eyebrow">Contact</p>
+            <h2>Let’s build something meaningful</h2>
+          </div>
+          <div class="contact-card panel">
+            <p id="contact-copy"></p>
+            <div class="contact-links" id="contact-links"></div>
+          </div>
+        </section>
+      </main>
+
+      <footer class="site-footer">
+        <p id="footer-note">Open to opportunities and collaborations.</p>
+      </footer>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>

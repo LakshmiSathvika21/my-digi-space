@@ -1,0 +1,11 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#E8DDD0"/>
+  <rect x="72" y="72" width="1056" height="616" rx="28" fill="#FFFDF8"/>
+  <circle cx="260" cy="250" r="110" fill="#D08B57"/>
+  <rect x="430" y="164" width="530" height="88" rx="18" fill="#E7D0BA"/>
+  <rect x="430" y="286" width="430" height="30" rx="15" fill="#F1E2CE"/>
+  <rect x="430" y="338" width="480" height="30" rx="15" fill="#F1E2CE"/>
+  <rect x="160" y="430" width="860" height="138" rx="30" fill="#F3E6D2"/>
+  <rect x="200" y="470" width="240" height="56" rx="18" fill="#B85C38"/>
+  <text x="600" y="646" text-anchor="middle" fill="#8F694E" font-family="Arial, sans-serif" font-size="40">Swap in a real project image</text>
+</svg>

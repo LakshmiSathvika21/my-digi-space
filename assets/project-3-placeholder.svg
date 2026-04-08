@@ -1,0 +1,12 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="32" fill="#F4ECDD"/>
+  <rect x="78" y="78" width="1044" height="604" rx="28" fill="#FFF8EF"/>
+  <rect x="156" y="156" width="888" height="80" rx="20" fill="#D9B892"/>
+  <rect x="156" y="280" width="270" height="286" rx="30" fill="#C96E47"/>
+  <rect x="462" y="280" width="582" height="58" rx="18" fill="#E9DCC7"/>
+  <rect x="462" y="368" width="500" height="28" rx="14" fill="#F1E2CE"/>
+  <rect x="462" y="418" width="468" height="28" rx="14" fill="#F1E2CE"/>
+  <rect x="462" y="468" width="420" height="28" rx="14" fill="#F1E2CE"/>
+  <rect x="462" y="526" width="210" height="40" rx="16" fill="#B85C38"/>
+  <text x="600" y="642" text-anchor="middle" fill="#8F694E" font-family="Arial, sans-serif" font-size="40">Add your final project artwork here</text>
+</svg>
